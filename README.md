@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Canbaylan
-- 👀 I’m interested in React, Flutter, Java
+- 👀 I’m interested in React, Java
 - 🌱 I’m currently learning Java
 
 <!---
